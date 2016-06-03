@@ -1,0 +1,72 @@
+* {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+
+}
+body{
+    padding-top: 50px;
+}
+
+section{
+    padding-top: 38px;
+    padding-bottom: 15px;
+    min-height: 50vh;
+}
+
+footer{
+    padding-top: 10px;
+    padding-bottom: 1px;
+    min-height: 1vh;
+}
+.um{
+    background-color:#eaffd0;
+}
+
+.dois{
+    background-color: #95e1d3;
+    align-items: center;
+}
+
+.tres{
+    background-color: #eaffd0;
+}
+
+.quatro{
+    background-color: #95e1d3;
+}
+
+.rodape{
+    background-color: #eaffd0;
+    color: #121435;
+}
+
+.navbar-brand
+{
+    font-weight: 700;
+}
+
+.fotos
+{
+    padding-top: 15px;
+    padding-bottom: 25px;
+/*   background-color: #3baea0;*/
+}
+
+.postagem
+{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.tabela
+{
+    background-color: #abedd8;
+    color: #121435;
+}
+
+.tabela thead
+{
+    background-color:#3fc1c9;
+    color: white;
+
+}
